@@ -1,6 +1,8 @@
 # Bnb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+This project base was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+The project is a copy of Fafnur/Barinb (https://github.com/fafnur/barinb) project. Was duplicated for 
+learning Angular best practices.
 
 ## Development server
 
