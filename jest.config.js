@@ -22,5 +22,11 @@ module.exports = {
     '@app/core/store/utils': ['<rootDir>/src/app/core/store/utils/index.ts'],
     '@app/core/store/root': ['<rootDir>/src/app/core/store/root/index.ts'],
     '@app/core/logger': ['<rootDir>/src/app/core/logger/index.ts'],
+    '@app/rooms/common': ['<rootDir>/src/app/rooms/common/index.ts'],
+    '@app/rooms/storage': ['<rootDir>/src/app/rooms/storage/index.ts'],
+    '@app/buildings/common': ['<rootDir>/src/app/buildings/common/index.ts'],
+    '@app/buildings/storage': ['<rootDir>/src/app/buildings/storage/index.ts'],
+    '@app/persons/common': ['<rootDir>/src/app/persons/common/index.ts'],
+    '@app/persons/storage': ['<rootDir>/src/app/persons/storage/index.ts'],
   },
 };
